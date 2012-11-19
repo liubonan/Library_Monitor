@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lib-Monitor", "Lib-Monitor\Lib-Monitor.csproj", "{1DEFD39A-F47E-46AF-9D16-B90780909BCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1DEFD39A-F47E-46AF-9D16-B90780909BCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DEFD39A-F47E-46AF-9D16-B90780909BCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DEFD39A-F47E-46AF-9D16-B90780909BCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DEFD39A-F47E-46AF-9D16-B90780909BCC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
